@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kiran Pandey
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java and front end Web designing
+- 🌱 I’m currently learning java and python django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.facebook.com/kiranpandey17
 
