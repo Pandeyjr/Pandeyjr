@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kiran Pandey
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java and python django
-- 📫 How to reach me https://www.facebook.com/kiranpandey17
+- 
 
 <!---
 Pandeyjr/Pandeyjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
